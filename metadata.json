@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Cozy Corner Planner",
+  "description": "A healing, Animal Crossing-inspired productivity dashboard featuring a 3-column layout for inspiration, scheduling, and identity growth, complete with a mock AI companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
